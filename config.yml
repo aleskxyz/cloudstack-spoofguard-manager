@@ -1,0 +1,13 @@
+nsx:
+  url: https://nsx_url
+  username: nsx_username
+  password: nsx_password
+  policyName: spoofguard_policy_name
+
+cloudstack:
+  url: https://cloudstack_url/client/api
+  apiKey: cloudstack_api_ky
+  secretKey: cloudstack_secret_key
+
+cache:
+  databasePath: './cache.sqlite'
